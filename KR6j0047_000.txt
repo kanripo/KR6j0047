@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 瑜伽金剛頂經釋字母品
+#+DATE: 2015-08-30 20:24:23.590500
+#+PROPERTY: JUAN 0
